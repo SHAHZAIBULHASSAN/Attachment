@@ -1,0 +1,23 @@
+/* Styling for the upload icon */
+.upload-icon {
+    display: inline-block;
+    width: 24px;
+    height: 24px;
+    background-image: url('data:image/svg+xml;base64,...'); /* Replace with your upload icon base64 */
+    background-size: cover;
+    margin-bottom: 10px;
+}
+button {
+    background-color: #0078d4;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+button:hover {
+    background-color: #005a9e;
+}
+div {
+    font-family: Arial, sans-serif;
+}
